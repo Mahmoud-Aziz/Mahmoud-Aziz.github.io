@@ -1,14 +1,17 @@
-# My personal Portfolio 
+# My Personal Portfolio 
 
 ## URL 
-Mahmoud-Aziz.github.io
+ Mahmoud-Aziz.github.io :point_left:	
 
 ## Project Overview
 
 *Personal Portfolio hotsed on GitHub pages.
+
 *Written by HTML and SCSS.
+
 *Consists of ABOUT ME, CONTACT ME, MY WORK, FEATURED WORK Sections.
-*Still incomplete, Many updates to come ;) 
+
+*Still incomplete, Many updates to come :wink:	
 
 
 ## Project UI Design 
